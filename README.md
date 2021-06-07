@@ -1,0 +1,1 @@
+THis is mandatory in all ALX Student projects
